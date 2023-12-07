@@ -1,0 +1,25 @@
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\FF Project.exe
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\FF Project.deps.json
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\FF Project.runtimeconfig.json
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\FF Project.dll
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\FF Project.pdb
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C# projects\FF Project\FF Project\bin\Debug\net8.0-windows\Npgsql.dll
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.csproj.AssemblyReference.cache
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\Desktop_App.Form1.resources
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\Desktop_App.Form_Login.resources
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\Desktop_App.Form_Register.resources
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.csproj.GenerateResource.cache
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.AssemblyInfoInputs.cache
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.AssemblyInfo.cs
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.csproj.CoreCompileInputs.cache
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.csproj.CopyComplete
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.dll
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\refint\FF Project.dll
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.pdb
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF Project.genruntimeconfig.cache
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\ref\FF Project.dll
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF_Project.Form_Management.resources
+C:\C# projects\FF Project\FF Project\obj\Debug\net8.0-windows\FF_Project.Properties.Resources.resources

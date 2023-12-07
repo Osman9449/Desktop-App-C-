@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a6B0zQqQox7X3AgkY8KwCWLr4WDSFlP1dBGAIos26gHHCfTUaQUSFdtRBqx8zwQqU3mXKxPCtMOcTANbcPWZVw==",
+  "success": true,
+  "projectFilePath": "C:\\C# projects\\FF Project\\FF Project\\FF Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
